@@ -1,6 +1,6 @@
 ## Desenvolvimento de aplicativos MQ JMS com Spring Boot
 
-# 1. Visão Geral
+# 1. Introdução
 
 O IBM MQ tem um Spring Boot Starter que fornece aos desenvolvedores do Spring uma maneira fácil de configurar o pacote IBM MQ JMS.
 
